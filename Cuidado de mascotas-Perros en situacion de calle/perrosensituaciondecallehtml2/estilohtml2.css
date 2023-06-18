@@ -1,0 +1,124 @@
+body {
+	background: #d3b698;
+}
+
+header {
+	font-size: 25px;
+	padding: 5px;
+	text-align: center;
+	text-shadow: 15px 15px 15px;
+}
+
+nav {
+	background: #f1e7dd;
+	padding: 5px;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	font: bold 20px verdana;
+	margin-right: 40px;
+}
+
+.imagenprincipal{
+	height: 400px;
+	width: 1335px;
+}
+
+.subtituloabajo {
+	font-size: 25px;
+	text-align: center;
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 20px;
+}
+
+.imagenparrafo {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p,ul,li {
+	font-size: 20px;
+}
+
+div {
+	border: 3px solid black;
+	padding: 5px;
+	width: 980px;
+}
+
+div img {
+	display: block;
+}
+
+div h3 {
+	font-size: 25px;
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 20px;
+	display: inline-block;
+}
+
+div h2 {
+	font-size: 28px;
+	text-align: center;
+}
+
+div img {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div {
+	float: left;
+	margin-bottom: 10px;
+}
+
+aside {
+	float: right;
+	width: 320px;
+	font-size: 20px;
+}
+
+aside img {
+	width: 250px;
+}
+
+aside h4:hover {
+	color: red;
+}
+
+aside h3 {
+	border: 2px solid black;
+	border-radius: 20px;
+	box-shadow: 10px 10px 10px 10px;
+	display: inline-block;
+	padding: 5px;
+}
+
+.frase {
+	border: 2px solid black;
+	text-align: center;
+}
+
+.piedepagina {
+	clear: both;
+	padding: 10px;
+	border: 2px solid black;
+	margin: 0px;
+	background: #f1e7dd;
+	text-align: center;
+}
+
+.piedepagina a {
+	margin-right: 20px;
+}

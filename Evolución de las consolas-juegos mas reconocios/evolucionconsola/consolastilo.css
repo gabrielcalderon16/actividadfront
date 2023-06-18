@@ -1,0 +1,153 @@
+body {
+	background: black;
+	color: white;
+}
+
+nav {
+	padding: 5px;
+}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	font: bold 20px verdana;
+	margin-right: 40px;
+}
+
+nav {
+	position: absolute;
+	color: white;
+}
+
+.imagenportada {
+	height: 300px;
+	width: 1335px;
+}
+
+.presentacion li {
+	list-style: none;
+	display: inline-block;
+	padding: 5px;
+	font: bold 20px verdana;
+	margin-right: 140px;
+	margin-left: 15px;
+	margin-bottom: 100px;
+	margin-top: 50px;
+	font-size: 25px;
+}
+
+.presentacion1 {
+	border: 2px solid #1920aa;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px #1920aa;
+	background: #1920aa;
+	transform: rotate(-45deg);
+	color: black;
+}
+
+.presentacion2 {
+	border: 2px solid #20aa19;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px #20aa19;
+	background: #20aa19;
+	transform: rotate(-45deg);
+	color: black;
+}
+
+.presentacion3 {
+	border: 2px solid #f01a25;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px #f01a25;
+	background: #f01a25;
+	transform: rotate(-45deg);
+	color: black;
+}
+
+.presentacion4 {
+	border: 2px solid #ffd700;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px 5px #ffd700;
+	background: #ffd700;
+	transform: rotate(-45deg);
+	color: black;
+}
+
+header {
+	font-size: 20px;
+	padding: 5px;
+	text-align: center;
+	text-shadow: 15px 15px 15px;
+}
+
+.subtituloimg {
+	width: 500px;
+	height: 250px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.espacio {
+	margin-bottom: 40px;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+div {
+	font-size: 20px;
+	margin-left: 20px;
+}
+
+div p b {
+	color: red;
+}
+
+
+img {
+	margin-right: 20px;
+	width: 250px;
+	height: 150px;
+	margin-left: 15px;
+}
+
+aside {
+	float: right;
+	width: 250px;
+	font-size: 20px;
+	margin-right: 20px;
+}
+
+aside img {
+	width: 250px;
+}
+
+aside h4:hover {
+	color: red;
+}
+
+div {
+	float: left;
+	width: 960px;
+}
+
+
+.piedepagina {
+	clear: both;
+	padding: 10px;
+	border: 2px solid red;
+	margin: 0px;
+	background: #ff3232;
+	color: black;
+	text-align: center;
+}
+
+.piedepagina a {
+	margin-right: 20px;
+}
+
+
+
+
